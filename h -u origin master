@@ -1,0 +1,11 @@
+[33mcommit 556dad25c60c13f9b704c9223a491e29ec60dbe8[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Slava <eivsdnepr@gmail.com>
+Date:   Thu Mar 21 22:51:41 2019 +0200
+
+    write code to sign in
+
+[33mcommit a1d1c63a9b15aa6e9260374d52a156f5c4f24be9[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Slava <eivsdnepr@gmail.com>
+Date:   Mon Mar 18 11:14:54 2019 +0200
+
+    create project, added libraries
